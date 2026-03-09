@@ -72,6 +72,17 @@ Want to identify your specific bias patterns? Take the free [Investment Psycholo
 
 For a comprehensive library of investment principles from 27 legendary investors organized by scenario, visit [KeepRule](https://keeprule.com).
 
+## Related Open Source Projects
+
+| Project | Description |
+|---------|-------------|
+| [awesome-value-investing](https://github.com/henu-wang/awesome-value-investing) | Curated list of value investing resources |
+| [behavioral-finance-guide](https://github.com/henu-wang/behavioral-finance-guide) | Practical guide to the 12 most dangerous investment biases |
+| [buffett-letters-index](https://github.com/henu-wang/buffett-letters-index) | Comprehensive index of Buffett's annual letters by topic |
+| [stock-valuation-checklist](https://github.com/henu-wang/stock-valuation-checklist) | Systematic checklist for evaluating stock valuations |
+| [market-cycle-indicators](https://github.com/henu-wang/market-cycle-indicators) | Cheat sheet for identifying market cycle phases |
+| [value-investing-decision-framework](https://github.com/henu-wang/value-investing-decision-framework) | Structured buy/hold/sell decision framework |
+
 ## Contributing
 
 Found a bias or check we're missing? Open a PR! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
